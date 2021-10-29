@@ -1,6 +1,6 @@
-# test
+# Standard App
 
-A new Flutter project.
+Calculator app for ICT Project Endterm
 
 ## Getting Started
 
